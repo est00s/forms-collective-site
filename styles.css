@@ -1,8 +1,8 @@
 /* Forms Collective - design language
    One ink, one paper, no fills. Structure is drawn, not shaded: a thick rule opens each
    section, labels sit in mono like the field names on a form, buttons are outlined boxes.
-   Corners: every box slightly rounded, 4px on buttons and small boxes, 8px on larger ones
-   (brand/forms tokens, alex-context 7d084f5).
+   Corners: every box rounded, 8px on buttons and small boxes, 12px on larger ones
+   (brand/forms tokens, alex-context 78fb9fa).
    Bump the ?v= on styles.css in index.html whenever this file changes. */
 
 :root{
@@ -11,9 +11,9 @@
   --muted:#59606a;
   --hair:rgba(13,27,42,0.16);
   --stroke:3px;
-  --r-btn:4px;
-  --r-sm:4px;
-  --r-md:8px;
+  --r-btn:8px;
+  --r-sm:8px;
+  --r-md:12px;
   --sans:"Helvetica Neue",Helvetica,Arial,sans-serif;
   --mono:ui-monospace,"SF Mono",SFMono-Regular,Menlo,Consolas,"Liberation Mono",monospace;
 }
