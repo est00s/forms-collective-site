@@ -2,7 +2,7 @@
    One ink, one paper, no fills. Structure is drawn, not shaded: a thick rule opens each
    section, labels sit in mono like the field names on a form, buttons are outlined boxes.
    Corners: every box rounded, 12px on buttons and small boxes, 16px on larger ones
-   (brand/forms tokens, alex-context 4800b28).
+   The mark holds at about 8px so it stays a square (brand/forms tokens, alex-context fc61a94).
    Bump the ?v= on styles.css in index.html whenever this file changes. */
 
 :root{
